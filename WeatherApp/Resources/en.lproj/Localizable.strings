@@ -1,0 +1,30 @@
+// Search Locations
+"search.locations.navigation.title" = "Search";
+"search.locations.prompt" = "Type city...";
+"search.locations.favourites" = "Favourites";
+
+// Location Details
+"location.details.general" = "General";
+"location.details.today" = "Today";
+"location.details.name" = "Name";
+"location.details.type" = "Type";
+"location.details.timezone" = "Timezone";
+"location.details.currently" = "Currently";
+"location.details.predicting" = "Predicting";
+"location.details.temperature" = "Temperature";
+"location.details.min.temperature" = "Min Temperature";
+"location.details.max.temperature" = "Max Temperature";
+"location.details.air.pressure" = "Air Pressure";
+"location.details.wind.speed" = "Wind Speed";
+"location.details.humidity" = "Humidity";
+"location.details.visibility" = "Visibility";
+
+// Content Info
+"content.info.failure.title" = "Uppps!";
+"content.info.empty.title" = "Empty";
+"content.info.idle.title" = "Weather App";
+"content.info.loading.title" = "Loading...";
+"content.info.failure.description" = "We couldn't load data. Make sure Internet Connection is on.";
+"content.info.empty.description" = "Unfortunately, we didn't find any results for the phrase.";
+"content.info.idle.description" = "Find your city and don't get surprised by the rain!";
+"content.info.loading.description" = "Trying to load data for you. It should succeed soon!";

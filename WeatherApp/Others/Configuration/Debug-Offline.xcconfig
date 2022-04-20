@@ -1,0 +1,3 @@
+APPLICATION_NAME = Weather Offline
+APPLICATION_URL_SCHEME = mock
+APPLICATION_URL_HOST = www.metaweather.com

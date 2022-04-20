@@ -1,0 +1,3 @@
+APPLICATION_NAME = Weather
+APPLICATION_URL_SCHEME = https
+APPLICATION_URL_HOST = www.metaweather.com

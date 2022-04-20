@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>$(APPLICATION_NAME)</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AvenirNextLTPro-Regular.otf</string>
+		<string>AvenirNextLTPro-Bold.otf</string>
+	</array>
+	<key>APPLICATION_URL_SCHEME</key>
+	<string>$(APPLICATION_URL_SCHEME)</string>
+	<key>APPLICATION_URL_HOST</key>
+	<string>$(APPLICATION_URL_HOST)</string>
+</dict>
+</plist>
